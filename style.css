@@ -45,6 +45,7 @@ p, #footer {
 
 #footer a + a {
     margin-left: 28px;
+    padding-bottom: 2rem;
 }
 
 .line {
